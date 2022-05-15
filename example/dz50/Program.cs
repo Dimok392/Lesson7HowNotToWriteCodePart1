@@ -33,4 +33,4 @@ for (int i = line; i < mass.GetLength(0); i++)
     
 }
 if (b) Console.WriteLine(mass[line, column] + " ");
-else Console.WriteLine($"в массиве нет такого элемнта");
+else Console.WriteLine($"в массиве нет такого элемента");
